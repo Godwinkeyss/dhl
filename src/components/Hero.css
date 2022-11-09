@@ -1,0 +1,14 @@
+.hero{
+    padding: 6px 5%;
+}
+.image{
+    
+}
+.image img{
+    width: 1380px;
+    height: 420px;
+    background-size: cover;
+    object-fit: cover;
+    margin-top: -12px;
+    
+}
